@@ -1,4 +1,4 @@
-# Misson: Heroku
+# Mission: Heroku
 
 You have accepted a mission to deploy a Node.js application to Heroku ONLY using the Heroku documentation! 
 
